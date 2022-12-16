@@ -11,9 +11,11 @@ module.exports = {
         '3xl': '1537px',
       },
 
+      /*
       backgroundImage: {
-        background: "url('/bg.jpg')",
+        background: "url('/public/bg.jpg')",
       },
+      */
 
       colors: {
         primary: {
